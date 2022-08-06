@@ -1,0 +1,12 @@
+dconf-gsettings-backend	
+gir1.2-xapp-1.0	>= 1.4
+gsettings-backend	
+python3	
+python3-bs4	
+python3-configobj	
+python3-gi	
+python3-pil	
+python3-setproctitle	
+python3-tldextract	
+xapps-common	
+
